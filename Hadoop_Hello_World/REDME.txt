@@ -1,0 +1,2 @@
+This is Hadoop hello world program which counts the number of words from the file.
+
